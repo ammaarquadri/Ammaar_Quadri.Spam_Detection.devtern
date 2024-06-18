@@ -1,6 +1,6 @@
 # Ammaar_Quadri.Spam_Detection
 ## Name : Md. Ammaar Quadri
-## Internship : Machine Learning (By Devternn)
+## Internship : Machine Learning (By Devtern)
 
 ## Task 2: Spam Detection Using TensorFlow in Python
 
